@@ -7,6 +7,6 @@ Imagem de mapa mental falando sobre a carreira de um Analista de Dados gerada po
 Mapify e Uizard
 
 
-<div align="center">
-<img src="![mapa](https://github.com/leticiamf100/atividades/assets/120747023/acc6fdd6-311b-41d9-b3a5-05502c004191)" width="0px" />
-</div>
+<p align="center">
+  <img src="./imagens/mapa.png" alt="DIO" tittle="Digital Innovation One">
+</p>
